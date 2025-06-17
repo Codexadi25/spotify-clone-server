@@ -83,3 +83,6 @@ The only difference with this server is that the sent back data at step 2 is the
 ### Logging out
 
 Since "logged in" just means that there is a refresh_token stored in cookies, to log the user out it is simply deleting the cookie and refresh the client.
+
+##### Author
+Aditya Sahu &copy; 2025
